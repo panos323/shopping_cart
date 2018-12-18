@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <smartphones>
+        <smartphone_alpha>
+            <brand>Alpha</brand>
+            <model>Alpha ZT</model>
+            <price>50$</price>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eleifend lacus quis felis efficitur, iaculis luctus ex faucibus. Quisque ac justo vitae enim ornare lobortis quis vel diam.
+            </description>
+        </smartphone_alpha>
+        <smartphone_beta>
+            <brand>Beta</brand>
+            <model>Beta ZT</model>
+            <price>40$</price>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eleifend lacus quis felis efficitur, iaculis luctus ex faucibus. Quisque ac justo vitae enim ornare lobortis quis vel diam.
+            </description>
+        </smartphone_beta>
+        <smartphone_gama>
+            <brand>Gama</brand>
+            <model>Gama ZT</model>
+            <price>120$</price>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eleifend lacus quis felis efficitur, iaculis luctus ex faucibus. Quisque ac justo vitae enim ornare lobortis quis vel diam.
+            </description>
+        </smartphone_gama>
+    </smartphones>
+    <laptops>
+        <laptop_delta>
+            <brand>Delta</brand>
+            <model>Delta ZT</model>
+            <price>99$</price>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eleifend lacus quis felis efficitur, iaculis luctus ex faucibus. Quisque ac justo vitae enim ornare lobortis quis vel diam.
+            </description>
+        </laptop_delta>
+        <laptop_epsilon>
+            <brand>Epsilon</brand>
+            <model>Epsilon ZT</model>
+            <price>79$</price>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eleifend lacus quis felis efficitur, iaculis luctus ex faucibus. Quisque ac justo vitae enim ornare lobortis quis vel diam.
+            </description>
+        </laptop_epsilon>
+        <laptop_zita>
+            <brand>Zita</brand>
+            <model>Zita ZT</model>
+            <price>99$</price>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eleifend lacus quis felis efficitur, iaculis luctus ex faucibus. Quisque ac justo vitae enim ornare lobortis quis vel diam.
+            </description>
+        </laptop_zita>
+    </laptops>
+</items>
